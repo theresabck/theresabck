@@ -18,5 +18,5 @@ Excel in teamwork and collaboration
 | EDA                 | Python, Pandas, Numpy                               |
 | Data Visualization  | Tableau, PowerPoint, Seaborn, Matplotlib           |
 | Tools               | GitHub, Jupyter Notebook, Visual Studio Code, Slack |
-| Project Management  | Agile, GitHub Boards, Trello                                |
+| Project Management  | Agile, GitHub, Trello                                |
 | ETL                 | PostgreSQL, SQL          |
